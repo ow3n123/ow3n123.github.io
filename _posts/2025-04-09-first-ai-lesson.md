@@ -10,12 +10,12 @@ Table of Contents
 
 ## What I've accomplished
 
-1. **Installing **: First, I got into the basics of running deep learning on a PC with dev containers.
+1. **Installing**: First, I learned the basics of running deep learning on a PC with dev containers. I utilised [brian's](https://lovellbrian.github.io/2023/10/02/BYODImage.html) to get started, first creating a model trained to detect if an image was of a bird or not.
 
-2. **Making Pages**: I then learned how to make pages by creating new `.md` files and placing them in the `/_posts/` folder.
+2. **Making Pages**: I then learned how to make this blog post and pages by creating new `.md` files and placing them in the `/_posts/` folder. This was made by following the [fast.ai](https://www.fast.ai/posts/2020-01-16-fast_template.html) guide.
 
 3. **Making Blog Posts**: This is my first blog post! I now have Markdown posts!
 
 ## What's next
 
-I will finish reading through the fast AI course, and then keep adding more posts. Watch this space for more to come.
+I will finish reading through the fast AI course and complete my assignment, and then keep adding more posts. Watch this space for more to come.

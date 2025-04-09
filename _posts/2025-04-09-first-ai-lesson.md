@@ -4,6 +4,8 @@ Welcome to my __personal learning blog__ where I document my journey through the
 
 **Blog Link**: [https://ow3n123.github.io/blog](https://ow3n123.github.io/blog)
 
+1. TOC
+{:toc}
 
 ## What I've accomplished
 

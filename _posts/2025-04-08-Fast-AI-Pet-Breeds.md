@@ -1,7 +1,5 @@
 # Key Insights from Implementing Pet Breed Classification with fastai
 
-TOC {:toc}
-
 ## 🐾 Introduction
 
 I took a keen intreset in implmenting the pet breeds classification notebook since I was personally a big fan of pets and wanted to tinker with how the deep learning worked. While working through the **Pet Breeds** classification notebook from the fastai course, I picked up several useful strategies and deepened my understanding of key deep learning concepts. 
